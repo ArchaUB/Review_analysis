@@ -1,0 +1,22 @@
+[
+    {
+        "customer_name": "Isabella Garcia",
+        "customer_email": "igarcia@email.com",
+        "text": "These premium wireless earbuds exceeded my expectations! The sound quality is exceptional, with rich bass and crystal-clear highs. The noise cancellation feature blocks out distractions, allowing me to focus on my music or calls. They're incredibly comfortable and secure, perfect for my daily commute and workouts. The touch controls are intuitive, and the charging case is sleek and compact. I also appreciate the fast charging and long battery life. Overall, a fantastic investment!"
+    },
+    {
+        "customer_name": "Olivia Martinez",
+        "customer_email": "omartinez@email.com",
+        "text": "I'm quite disappointed with these wireless earbuds. The sound quality is mediocre at best, with weak bass and muffled highs. The noise cancellation barely makes a difference, and I can still hear a lot of background noise. The earbuds are also uncomfortable and keep falling out of my ears, making them impractical for workouts. Additionally, the touch controls are overly sensitive and frustrating to use. The charging case is flimsy and feels cheap. Not worth the price, in my opinion."
+    },
+    {
+        "customer_name": "Liam Johnson",
+        "customer_email": "ljohnson@email.com",
+        "text": "Unfortunately, these earbuds did not live up to my expectations. The battery life is much shorter than advertised, and I often find myself needing to recharge them multiple times a day. The connection is unstable and frequently drops, especially when I'm outdoors. The sound quality is subpar, with noticeable distortion at higher volumes. The earbuds are uncomfortable for extended use, and the build quality feels fragile. I've had better experiences with cheaper alternatives. Wouldn't recommend."
+    },
+    {
+        "customer_name": "Ethan Wilson",
+        "customer_email": "ewilson@email.com",
+        "text": "I'm impressed by the sound quality and comfort of these sports earbuds. They stay put during my runs and bike rides, and the IPX5 sweat resistance is a lifesaver. The ear hooks provide extra stability, and the touch controls are easy to use. The charging case is a bit bulkier than I'd like, but it's still pocket-friendly. The quick-charging feature is a lifesaver when I forget to charge them overnight. I'd recommend their armband phone case for a secure way to carry my phone during workouts."
+    }
+]
