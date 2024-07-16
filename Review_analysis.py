@@ -56,8 +56,9 @@ if reviews_file and products_file:
     for review in reviews:
         chats = [HumanMessage(content=review['text'])]
         response = chain.invoke({"chats": chats, "item": review['text']})
-        sentiment, email = response.split('\n', 1)  # Assume the first line is the sentiment and the rest is the email
+        sentiment, email = response.split('\n', 1) 
 
+        
         st.write(f"Email to {review['customer_email']} : {email}")
 
         processed_reviews.append(review)
