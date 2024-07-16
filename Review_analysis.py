@@ -54,15 +54,10 @@ if reviews_file and products_file:
     processed_reviews = []
 
     for review in reviews:
-        # Create chat history for each review
         chats = [HumanMessage(content=review['text'])]
         response = chain.invoke({"chats": chats, "item": review['text']})
         sentiment, email = response.split('\n', 1)  # Assume the first line is the sentiment and the rest is the email
 
-        # review["sentiment"] = sentiment.strip()
-        # review["email"] = email.strip()
-
-        # Display the email to be sent to the customer
         st.write(f"Email to {review['customer_email']} : {email}")
 
         processed_reviews.append(review)
